@@ -15,8 +15,8 @@ Jay Harris -
 
 
 
-#### /Host
+#### /Client/Host.py
 The master program which clients connect to. The host acts as a single control point for the machine learning network.
 
-#### /Client
+#### /Client/Client.py
 Client program which executes neural networks and interfaces with emulators.
