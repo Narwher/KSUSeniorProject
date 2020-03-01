@@ -1,6 +1,10 @@
 # Client.py
 # Entry point for client program
 
-import log
+import Log
+from Event import ClientFatalBEvent
 
-log.info("Starting client")
+Log.info("Starting client")
+
+testEvent = ClientFatalBEvent("127.0.0.1", "Test message")
+testEvent.fire()
