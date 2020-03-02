@@ -10,7 +10,7 @@ Benjamin Hermes - benmhermes@gmail.com
 Josh Berezinski -
 Efren Portugal -
 Kurtis Webb -
-Jay Harris -
+Jay Harris - jwharris96@gmail.com
 ```
 
 
@@ -24,3 +24,8 @@ python -u Host.py
 Client program which executes neural networks and interfaces with emulators.
 ##### Execution
 python -u Client.py
+
+#### /networks/
+Directory housing various neural network implementations. They are selected by the Client
+###### /networks/nn_sigmoid.py
+Simple, Feed-Forward neural network using Sigmoid function.
