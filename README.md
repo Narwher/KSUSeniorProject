@@ -1,16 +1,17 @@
 #
 ## Kennesaw State University Senior Project Spring 2020
 
-A distributed machine learning program for learning and playing emulated games.
+A machine learning program for learning and playing emulated games.
 
 **The Team**
 
 ```
-Benjamin Hermes - benmhermes@gmail.com
-Josh Berezinski -
-Efren Portugal -
-Kurtis Webb -
-Jay Harris - jwharris96@gmail.com
+Benjamin Hermes - bhermes1@students.kennesaw.edu
+Josh Berezinski - Jberezi2@students.kennesaw.edu
+Efren Portugal - eportuga@students.kennesaw.edu
+Kurtis Webb - kwebb23@students.kennesaw.edu
+Jay Harris - jharr313@students.kennesaw.edu
+
 ```
 
 
@@ -24,8 +25,3 @@ python -u Host.py
 Client program which executes neural networks and interfaces with emulators.
 ##### Execution
 python -u Client.py
-
-#### /networks/
-Directory housing various neural network implementations. They are selected by the Client
-###### /networks/nn_sigmoid.py
-Simple, Feed-Forward neural network using Sigmoid function.

@@ -1,7 +1,7 @@
 # Client.py
 # Entry point for client program
 
-import Log
+import log
 from Event import ClientFatalBEvent
 
 import time
