@@ -15,8 +15,8 @@ Jay Harris - jharr313@students.kennesaw.edu
 ```
 
 ### Requirements
-Python >= 3.5 \ 
-Tensorflow \
-PyVJoy \
+Python >= 3.5   
+Tensorflow  
+PyVJoy  
 mss 
 
